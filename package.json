@@ -1,12 +1,26 @@
 {
-  "name": "validator",
-  "version": "1.0.0",
-  "description": "",
+  "name": "validator-sameer",
+  "version": "1.0.1",
+  "description": "A lightweight utility for validating emails and passwords based on customizable rules.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+ "keywords": [
+    "validator",
+    "email",
+    "password",
+    "validation",
+    "email-validator",
+    "password-validator",
+    "regex",
+    "custom-validation",
+    "form-validation",
+    "javascript",
+    "utility",
+    "node",
+    "npm-package"
+  ],
+  "author": "Sameer Vohra",
   "license": "ISC"
 }
